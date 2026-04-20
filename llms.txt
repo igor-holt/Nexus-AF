@@ -1,0 +1,18 @@
+# Nexus-AF — Agentic Lead Generation
+
+> Nexus Atom Flow Pipeline for Agentic Lead Generation.
+> AI-powered lead generation by Igor Holt.
+
+## Features
+- Automated lead generation pipeline
+- AI agent orchestration
+- Atom Flow architecture
+
+## Genesis Conductor Integration
+- Uses Genesis Conductor for agent orchestration
+- A2A protocol for agent coordination
+- Ambient Access Layer compatible
+
+## Creator
+Igor Holt — AI Architect
+https://github.com/igor-holt | https://genesisconductor.io
