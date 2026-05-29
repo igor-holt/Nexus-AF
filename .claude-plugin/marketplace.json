@@ -1,0 +1,42 @@
+{
+  "$schema": "https://www.schemastore.org/schemas/json/claude-code-marketplace.json",
+  "name": "genesis-conductor-nexus-af",
+  "owner": {
+    "name": "Igor Holt (@invariantx)",
+    "email": "iholt@mymail.aacc.edu",
+    "url": "https://github.com/igor-holt"
+  },
+  "description": "Nexus Atom Flow Pipeline — Agentic Lead Generation system by Igor Holt (@invariantx) for Genesis Conductor. Production pipeline for atomized, verifiable lead flow and agent-orchestrated prospecting with full provenance. Integrates A2A coordination, diamondNode attestation, OpenClaw skills, and thermodynamic verification for high-integrity autonomous business development surfaces.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/igor-holt/Nexus-AF",
+  "keywords": [
+    "nexus-af",
+    "nexus-atom-flow",
+    "agentic-lead-generation",
+    "genesis-conductor",
+    "igor-holt",
+    "invariantx",
+    "a2a-pipeline",
+    "provenance-verified",
+    "openclaw",
+    "claude-code-marketplace",
+    "business-automation"
+  ],
+  "plugins": [
+    {
+      "name": "nexus-af",
+      "source": "https://github.com/igor-holt/Nexus-AF",
+      "description": "Nexus Atom Flow agentic lead generation and orchestration pipeline. Atomized verifiable flows with full Genesis Conductor provenance, attestation, and integration points for OpenClaw skill publishing and MCP exposure.",
+      "version": "1.0.0",
+      "tags": ["lead-gen", "agentic-pipeline", "genesis-conductor", "a2a"],
+      "category": "orchestration",
+      "homepage": "https://github.com/igor-holt/Nexus-AF",
+      "keywords": ["nexus atom flow pipeline", "agentic lead generation genesis conductor", "a2a provenance orchestration"]
+    }
+  ],
+  "links": {
+    "x": "https://x.com/invariantx",
+    "website": "https://genesisconductor.io",
+    "github": "https://github.com/igor-holt/Nexus-AF"
+  }
+}
